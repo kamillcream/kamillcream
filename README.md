@@ -2,6 +2,15 @@
 
 ## Tech Stack
 
+### 🟢 Proficient
+- **Spring Boot**: Extensive experience in developing RESTful APIs and building backend systems.
+- **MySQL**: Skilled in writing complex queries and database design.
+- **Java**: Expertise in object-oriented programming and using various libraries.
+
+### 🟠 Familiar
+- **React**: Experience in frontend development with React.
+- **Docker**: Familiar with setting up containerized development environments and deployments.
+
 ![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white)
 
