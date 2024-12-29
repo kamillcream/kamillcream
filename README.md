@@ -1,18 +1,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F2F2F,10:3C3C3C,30:4A4A4A,75:6E6E6E,100:8C8C8C&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-## Tech Stack
+## Tech & Tools
 
 ### 🟢 Proficient
-- **Spring Boot**: Extensive experience in developing RESTful APIs and building backend systems.
-- **MySQL**: Skilled in writing complex queries and database design.
-- **Java**: Expertise in object-oriented programming and using various libraries.
-
-### 🟠 Familiar
-- **React**: Experience in frontend development with React.
-- **Docker**: Familiar with setting up containerized development environments and deployments.
-
 ![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![githubactions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![jmeter](https://img.shields.io/badge/Apache_Jmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
+
+
+### 🟡 Familiar
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MySql&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![socket](https://img.shields.io/badge/Socket-C93CD7?style=flat-square&logo=socket&logoColor=white)
+
+
+### 🟠 Tried
+![kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyoun9&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
