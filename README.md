@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F2F2F,10:3C3C3C,30:4A4A4A,75:6E6E6E,100:8C8C8C&height=100&section=header&text=&fontSize=0" width="100%"/>
 
+## Tech Stack
 
 ![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white)
@@ -13,6 +14,5 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jinyoun9&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F2F2F,10:3C3C3C,30:4A4A4A,75:6E6E6E,100:8C8C8C&height=40&section=footer&text=&fontSize=0" width="100%"/>
